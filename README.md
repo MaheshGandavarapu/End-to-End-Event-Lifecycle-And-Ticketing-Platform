@@ -49,7 +49,7 @@ event_platform/
 6. Booking is confirmed
 7. User downloads a professional PDF ticket
 
-8. 5. ## 🧩 Modules
+5. ## 🧩 Modules
 
 ### Module 1: User Management
 Handles user registration, login, and session management.
@@ -63,7 +63,7 @@ Allows users to book tickets and complete payment.
 ### Module 4: Ticket Generation
 Generates a downloadable PDF ticket with professional design. 
 
-6.## ✅ Advantages
+6. ## ✅ Advantages
 
 - Reduces manual work in ticket booking
 - Provides fast and easy access to events
